@@ -1,0 +1,7 @@
+# Project exclude paths
+/csx-b2b-sss-api/target/
+/csx-b2b-sss-core/target/
+/csx-b2b-sss-dao/target/
+/csx-b2b-sss-provider/csx-b2b-sss-provider-ba/target/
+/csx-b2b-sss-provider/csx-b2b-sss-provider-rpc/target/
+/csx-b2b-sss-service/target/
